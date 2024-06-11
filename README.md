@@ -1,3 +1,6 @@
+
+![search](https://github.com/Akanni23/Ineed-career-services/assets/133223758/d608146f-8b1d-4485-93d1-7ffc2f3754d9)
+
 This website is built from scratch using HTML5 and CSS3 to showcase my Software Engineering learning progress at ALX Africa and present my current Front-End Development abilities.
 
 Developing a Ineed Career Services website can be an exciting endeavor that brings a unique and immersive user experience. However, it also presents several technical challenges that I needed to overcome to ensure a visually appealing implementation. One of the most difficult technical challenges in Ineed Career Services website development is achieving optimal performance while maintaining compatibility across various devices and browsers.

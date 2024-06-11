@@ -17,3 +17,6 @@ Furthermore, in an era marked by heightened concerns over data security and priv
 Yet, perhaps the most profound aspect of the Career Services platform lies in its transformative potential to shape the future of work. By bridging the gap between talent and opportunity, the platform transcends geographical boundaries, industry silos, and demographic barriers, ushering in a new era of inclusivity, diversity, and innovation.
 
 As we embark on this journey of empowerment and transformation, we invite you to join us in realizing the boundless possibilities of the Career Services platform. Together, let us embark on a voyage of discovery, growth, and success, as we redefine the contours of the modern job market and shape the future of work for generations to come.
+
+
+Authored By: Akanni Ismail
